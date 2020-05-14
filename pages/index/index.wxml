@@ -8,16 +8,21 @@
 <!--    </block>-->
 <!--  </view>-->
   <view>
-    <text>菜谱天天学</text>
+    <text>lalalalalalll</text>
   </view>
   <view>
     <image src="/images/yg.jpg"></image>
   </view>
   <view>
-    <text>小耿耿太挑剔了，努力抓住他的胃</text>
+    <text>呀哈哈哈哈哈哈哈</text>
   </view>
-
   <view class="usermotto">
     <text class="user-motto">我的微信：fajy0323</text>
   </view>
+
+</view>
+<view class="btn-area">
+  <navigator class="tab-btn" url="/pages/logs/logs" hover-class="navigator-hover">home</navigator>
+  <navigator class="tab-btn" url="/pages/about/about" open-type="redirect" hover-class="other-navigator-hover">current</navigator>
+  <navigator class="tab-btn" url="/page/index/index" open-type="switchTab" hover-class="other-navigator-hover">cart</navigator>
 </view>
