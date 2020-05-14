@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<view class="container">
+<!--  <view class="userinfo">-->
+<!--    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>-->
+<!--    <block wx:else>-->
+<!--      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>-->
+<!--      <text class="userinfo-nickname">{{userInfo.nickName}}</text>-->
+<!--    </block>-->
+<!--  </view>-->
+  <view>
+    <text>菜谱天天学</text>
+  </view>
+  <view>
+    <image src="/images/yg.jpg"></image>
+  </view>
+  <view>
+    <text>小耿耿太挑剔了，努力抓住他的胃</text>
+  </view>
+
+  <view class="usermotto">
+    <text class="user-motto">我的微信：fajy0323</text>
+  </view>
+</view>
